@@ -19,7 +19,7 @@ while the other one asks for the user's current temperature in said state*/
       prompt("What is the current temperature (Write only the number in degrees fahrenheit)?")*/
 
 /* I created a switch that, upon receiving an input from the user in the form
-of a prompt, sifts through the array items and produces a response. Instead of
+of a prompt, sifts through the array items and produces a response by utilizing a template literal. Instead of
 using if/else logic, it runs on a case-by-case basis with breaks or a default
 response once a match is made (or never made for that matter)*/
 switch(true) {
